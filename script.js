@@ -12,7 +12,6 @@ button.addEventListener("click", () => {
 function calculateSquare(num) {
     return num * num;
 }
-
 function formatString(str) {
     return str.trim().toUpperCase();
 }
